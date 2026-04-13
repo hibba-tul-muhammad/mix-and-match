@@ -1,0 +1,47 @@
+.agdasima-regular {
+    font-family: "Agdasima", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .agdasima-bold {
+    font-family: "Agdasima", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .nanum-gothic-coding-regular {
+    font-family: "Nanum Gothic Coding", monospace;
+    font-weight: 400;
+    font-style: normal;
+  }    
+head{
+    margin:0;
+}
+body{
+    background-color:#f0e9db;
+}
+h1{
+    font-size: 55px;
+    margin:0;
+    text-align:center;
+    font-family: "Agdasima", sans-serif;
+}
+h2{
+    text-align:center;
+    font-family:"Nanum Gothic Coding", monospace;
+    margin:30px;
+    background-color:#d8caae;
+    color:rgb(255, 255, 255);
+}
+.lionimage{
+    display:inline;
+  }
+.liontext{
+    display:inline;
+    font-size:18px;
+    font-family:'Courier New', Courier, monospace
+}
+.lion{
+    display:flex;
+    align-items:center;
+}
