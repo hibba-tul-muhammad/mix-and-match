@@ -39,9 +39,30 @@ h2{
 .liontext{
     display:inline;
     font-size:18px;
-    font-family:'Courier New', Courier, monospace
+    font-family:'Courier New', Courier, monospace;
+    color:aliceblue
 }
 .lion{
     display:flex;
     align-items:center;
+    margin:67px;
+    padding: 10px;
+    background-color:#4d3e2c;
+}
+.rollerimage{
+  display:inline;
+}
+.rollertext{
+  display:inline;
+  font-size:18px;
+  font-family:'Courier New', Courier, monospace;
+  color:white;
+  
+}
+.rollercoaster{
+  display:flex;
+  align-items:center;
+  margin:67px;
+  padding:10px;
+  background-color:rgb(68, 74, 77);
 }
