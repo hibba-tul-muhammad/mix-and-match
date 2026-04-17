@@ -1,3 +1,4 @@
+/* google fonts*/
 .agdasima-regular {
     font-family: "Agdasima", sans-serif;
     font-weight: 400;
@@ -29,6 +30,7 @@ head{
 body{
     background-color:#f0e9db;
 }
+/* Using text-align property to center text*/
 h1{
     font-size: 55px;
     margin:0;
@@ -42,6 +44,7 @@ h2{
     background-color:#d8caae;
     color:#ffffff;
 }
+/*Display property so that the images and text appear next to each other*/
 .lionimage{
     display:inline;
   }
@@ -51,6 +54,7 @@ h2{
     font-family: "Open Sans", sans-serif;
     color:#f7f1d8
 }
+/*Extra is display:flex so that the the text and image are able to appear next to each other perfectly*/
 .lion{
     display:flex;
     align-items:center;
@@ -58,6 +62,7 @@ h2{
     padding: 10px;
     background-color:#4d3e2c;
 }
+/*Repeating the same process for the roller coaster section*/
 .rollerimage{
   display:inline;
 }
@@ -65,7 +70,7 @@ h2{
   display:inline;
   font-size:18px;
   font-family: "Open Sans", sans-serif;
-  color:#e4edf5;
+  color:#d7dee4;
   
 }
 .rollercoaster{
